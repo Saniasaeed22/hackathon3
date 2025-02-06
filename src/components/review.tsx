@@ -1,6 +1,6 @@
 const Reviews = () => {
   return (
-    <div className="mt-6 bg-white shadow-md rounded-lg p-4 sm:p-6 lg:p-8">
+    <div className="mt-6 bg-white shadow-md rounded-lg p-4 sm:p-6 lg:p-7">
       <h3 className="text-lg sm:text-xl font-bold mb-4">Reviews</h3>
       <div className="space-y-4">
         {/* Review 1 */}
